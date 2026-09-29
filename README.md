@@ -10,12 +10,18 @@ I'm a Master of Computer Applications student specializing in **Cybersecurity & 
 **Programming:** Python • PHP • HTML • CSS • JavaScript • MySQL  
 **Digital Forensics:** Mobile & digital evidence analysis • Forensic investigation workflows
 
-### 🚀 What I'm Working On
+### 🚀 Projects
 
-- 🔎 Vulnerability assessment and ethical hacking labs
-- 🕵️ Digital forensics and evidence analysis
-- 🌐 Secure full-stack web applications
-- 📚 Building practical cybersecurity projects and continuously learning
+- 🔎 **[Python TCP Port Scanner](projects/port-scanner/)** — A small educational scanner using Python sockets to identify open TCP ports on authorized hosts.
+- 🌐 Secure full-stack web application projects with authentication and role-based access control.
+- 🕵️ Digital forensics and evidence-analysis practice.
+
+### 📚 What I'm Learning
+
+- Vulnerability assessment and ethical hacking
+- Digital forensics and incident investigation
+- Web application security
+- Secure software development
 
 ### 📌 Featured Interests
 
